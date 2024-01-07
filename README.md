@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to MyTorch, a deep-learning library implemented from scratch! This series of assignments represents a comprehensive effort to build a custom deep-learning framework inspired by PyTorch. MyTorch is designed to empower users to create a wide range of neural network architectures, from fundamental multilayer perceptrons (MLP) to advanced models like convolutional neural networks (CNN), recurrent neural networks with gated recurrent units (GRU), and long-short term memory (LSTM) structures.
+Welcome to MyTorch, a deep-learning library implemented from scratch! This series of assignments represents a comprehensive effort to build a custom deep-learning framework inspired by PyTorch and appying knowledge gained to a Kaggle class competitions. P1 holds the files for MyTorch, while P2 consists of notebooks used for competitions. MyTorch is designed to empower users to create a wide range of neural network architectures, from fundamental multilayer perceptrons (MLP) to advanced models like convolutional neural networks (CNN), recurrent neural networks with gated recurrent units (GRU), and long-short term memory (LSTM) structures.
 
 ## Developed in 11-785 Introduction to Deep Learning at CMU
 
